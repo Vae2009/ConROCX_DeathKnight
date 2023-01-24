@@ -1,0 +1,11 @@
+## Title:-|cffFFFFFFConROC3|r- |cffC79C6EDeath Knight|r
+## Version: 1.0.0
+## Author: Vae
+## Interface: 30401
+## SavedVariablesPerCharacter: ConROCDeathKnightSpells
+## Dependencies: ConROC3
+## LoadOnDemand: 1
+
+deathknight_ids.lua
+deathknight_spellmenu.lua
+deathknight.lua
