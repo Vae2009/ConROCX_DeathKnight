@@ -1,0 +1,4 @@
+Ver 1.1.0
+	-Started to add support for translations.
+Ver 1.0.0
+	-Initial release for Classic Wrath.
