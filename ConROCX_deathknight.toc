@@ -1,6 +1,6 @@
 ## Title:-|cffFFFFFFConROCX|r- |cffC41F3BDeath Knight|r
-## Version: 1.1.0
-## Author: DK version 1.1.0 made by Lith
+## Version: 3.4.3
+## Author: DK version 3.4.3 made by Lith
 ## Interface: 30403
 ## SavedVariablesPerCharacter: ConROCDeathKnightSpells
 ## Dependencies: ConROCX
