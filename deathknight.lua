@@ -296,9 +296,9 @@ ConROC:UpdateSpellID()
 	local _RunicPower_Max 						= UnitPowerMax('player', Enum.PowerType.RunicPower);
 
 --Presence
-	local BloodPresence										= ConROC:BuffName(_BloodPresence, timeShift)
-	local FrostPresence										= ConROC:BuffName(_FrostPresence, timeShift)
-	local UnholyPresence									= ConROC:BuffName(_UnholyPresence, timeShift)
+	local BloodPresence										= ConROC:Form(_BloodPresence)
+	local FrostPresence										= ConROC:Form(_FrostPresence)
+	local UnholyPresence									= ConROC:Form(_UnholyPresence)
 --Abilities
 	local BloodBoilRDY		 								= ConROC:AbilityReady(_BloodBoil, timeShift);
 		local inBBRange 										= ConROC:IsSpellInRange(_BloodBoil, 'target');

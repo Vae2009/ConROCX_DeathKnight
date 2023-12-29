@@ -128,7 +128,7 @@ local optionMaxIds = ...;
 -- Auras
 	ids.Player_Buff = {
 		KillingMachine = 51124,
-		FreezingFog = 59052; --Rime buff
+		FreezingFog = 59052, --Rime buff
 	}
 	ids.Player_Debuff = {
 
